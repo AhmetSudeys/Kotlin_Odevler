@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <color name="AppBar">#FF7E26</color>
+    <color name="Butonlar">#0B12AF</color>
+    <color name="Yazi1">#212121</color>
+    <color name="Yazi2">#C9FA20</color>
+    <color name="Yazi3">#E53935</color>
+    <color name="Yazi4">#636363</color>
+</resources>

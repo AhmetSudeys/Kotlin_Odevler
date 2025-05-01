@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ders Takip</string>
+    <string name="dersTakipBaslik">Follow the Lesson</string>
+    <string name="dersVeKonu">Mathematics - Trigonometry</string>
+    <string name="hedef">Todays Goal: 30 minutes</string>
+    <string name="chipButon1">Subject: Trigonometry</string>
+    <string name="chipButon2">Difficulty: Medium</string>
+    <string name="aciklama">Review trigonometric ratios today.</string>
+    <string name="tamamlanmaOran">Completed: 15/30</string>
+    <string name="buton1">Start Working</string>
+    <string name="buton2">Completed</string>
+
+</resources>

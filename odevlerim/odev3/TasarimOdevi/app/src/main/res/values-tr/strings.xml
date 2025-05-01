@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ders Takip</string>
+    <string name="dersTakipBaslik">Ders Takip</string>
+    <string name="dersVeKonu">Matematik - Trigonometri</string>
+    <string name="hedef">Bugünkü Hedef: 30 dakika</string>
+    <string name="chipButon1">Konu: Trigonometri</string>
+    <string name="chipButon2">Zorluk: Orta</string>
+    <string name="aciklama">Bugün trigonometrik oranları tekrar et.</string>
+    <string name="tamamlanmaOran">Tamamlandı: 15/30</string>
+    <string name="buton1">Çalışmaya Başla</string>
+    <string name="buton2">Tamamlandı</string>
+
+</resources>
