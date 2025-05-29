@@ -45,5 +45,7 @@ Bootcamp sürecinde edindiğim tüm bilgi ve yetenekleri bir araya getirerek olu
 gibi özellikler bulunmaktadır.
 
 ---
+**Ödevlerin detaylarını incelemek isterseniz `odev_sorulari` klasörünü ziyaret edebilirsiniz.**  
+---
 
 > 📌 Her klasörde ilgili projeye ait kaynak kodlar, görseller ve dokümantasyonlar bulunmaktadır. Bu repo, hem kendi gelişim sürecimi belgelemek hem de benzer yolda ilerleyen geliştiricilere yol göstermek amacıyla oluşturulmuştur.
