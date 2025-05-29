@@ -31,23 +31,6 @@ class CartDiscount : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_cart_discount,container,false)
-
-
-        binding.buttonDetayClose2.setOnClickListener {
-            Navigation.findNavController(it).popBackStack()
-        }
-
-
-
-
-
-
-
-
-
-
-
-
         return binding.root
     }
 
@@ -84,11 +67,5 @@ class CartDiscount : Fragment() {
         val tempViewModel: CartDiscountViewModel by viewModels()
         viewModel = tempViewModel
     }
-
-
-
-
-
-
 
 }
