@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Temel renkler -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="mavi">#0D47A1</color>
+    <color name="turuncu">#FF6F00</color> <!-- Koyu turuncu -->
+
+    <!-- Açık tema renkleri -->
+    <color name="background">#F5F5F5</color> <!-- Ana ekran arka planı -->
+    <color name="surface">#FFFFFF</color> <!-- Kart arka planı -->
+    <color name="primary">#37474F</color> <!-- Toolbar ve öne çıkan alan -->
+    <color name="primaryVariant">#263238</color> <!-- Koyu tonu -->
+    <color name="secondary">#00ACC1</color> <!-- Buton, vurgu rengi -->
+    <color name="secondaryVariant">#00838F</color>
+    <color name="error">#F44336</color>
+
+    <!-- Üstüne yazı, ikon rengi -->
+    <color name="onPrimary">#FFFFFF</color>
+    <color name="onSecondary">#FFFFFF</color>
+    <color name="onBackground">#212121</color>
+    <color name="onSurface">#212121</color>
+
+    <!-- Yazılar -->
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+
+    <!-- Kart arka planı -->
+    <color name="cardBackground">#FFFFFF</color>
+
+    <!-- Vurgu -->
+    <color name="koyuTuruncu">#FF6F00</color>
+</resources>
