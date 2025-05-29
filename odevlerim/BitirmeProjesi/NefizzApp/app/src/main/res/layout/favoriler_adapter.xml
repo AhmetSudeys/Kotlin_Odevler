@@ -62,11 +62,11 @@
                     android:id="@+id/imageDelete"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:layout_marginTop="32dp"
+                    android:layout_marginTop="44dp"
                     android:layout_marginEnd="16dp"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
-                    app:srcCompat="@drawable/delete_forever_40dp_000000_fill0_wght400_grad0_opsz40" />
+                    app:srcCompat="@drawable/close_40dp_000000_fill0_wght400_grad0_opsz40" />
 
             </androidx.constraintlayout.widget.ConstraintLayout>
 

@@ -29,9 +29,7 @@ class FavorilerFragment : Fragment() {
     ): View {
         binding = FragmentFavorilerBinding.inflate(inflater, container, false)
 
-        binding.buttonDetayClose3.setOnClickListener {
-            Navigation.findNavController(it).popBackStack()
-        }
+
 
 
         return binding.root

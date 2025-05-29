@@ -15,7 +15,7 @@ import com.example.bitirmeprojesi.databinding.FragmentCartDiscountBinding
 import com.example.bitirmeprojesi.ui.adapter.DiscountAdapter
 import com.example.bitirmeprojesi.ui.viewmodel.CartDiscountViewModel
 import dagger.hilt.android.AndroidEntryPoint
-import kotlin.getValue
+
 
 @AndroidEntryPoint
 class CartDiscount : Fragment() {
@@ -31,7 +31,7 @@ class CartDiscount : Fragment() {
     ): View? {
         // Inflate the layout for this fragment
         binding = DataBindingUtil.inflate(inflater, R.layout.fragment_cart_discount,container,false)
-        binding.sepetFragment = this
+
 
         binding.buttonDetayClose2.setOnClickListener {
             Navigation.findNavController(it).popBackStack()

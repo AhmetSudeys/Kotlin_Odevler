@@ -18,8 +18,4 @@
         android:id="@+id/cartDiscount"
         android:icon="@drawable/shopping_cart_40dp_000000_fill0_wght400_grad0_opsz40" />
 
-    <item
-        android:title="Profil"
-        android:id="@+id/profileFragment"
-        android:icon="@drawable/person_40dp_000000_fill0_wght400_grad0_opsz40" />
 </menu>

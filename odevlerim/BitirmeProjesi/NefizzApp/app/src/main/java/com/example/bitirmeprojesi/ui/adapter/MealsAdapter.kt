@@ -64,7 +64,7 @@ class MealsAdapter(
 
 
 
-        t.fabAddToCart.setOnClickListener {
+        t.btnAddToCart.setOnClickListener {
             try {
                 viewModel.sepeteYemekEkle(yemek.yemek_adi, yemek.yemek_resim_adi, yemek.yemek_fiyat)
                 Snackbar.make(it, "${yemek.yemek_adi} sepete eklendi", Snackbar.LENGTH_SHORT).show()
